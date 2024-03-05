@@ -1,10 +1,6 @@
-// File :CS112_A1_T5_20230076.cpp
-// Purpose : "The 100 game "  It is played by two players. Each player chooses a number from (0 : 10), 
+
+//  introduction : "The 100 game "  It is played by two players. Each player chooses a number from (0 : 10), 
 // the numbers are collected, and the first player arrives to 100 wins 
-// Author : Eyad Nader Ahmed Mohamed
-// iD : 20230076
-// dATE : 26 / 2 / 2024
-// vERSION : 1.3 
 #include <iostream>
 using namespace std;
 

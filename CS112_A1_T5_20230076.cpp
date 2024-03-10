@@ -1,6 +1,4 @@
 
-//  introduction : "The 100 game "  It is played by two players. Each player chooses a number from (0 : 10), 
-// the numbers are collected, and the first player arrives to 100 wins 
 #include <iostream>
 using namespace std;
 
